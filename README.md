@@ -2,7 +2,7 @@
 > In this repo there are javascript codes of important algorithms.
 
 ### Sort Algorithms
-  - [Insertion Sort Algorithm](sortInsertion.js)
+  - [Insertion Sort Algorithm](sortAlgorithms/sortInsertion.js)
   - [Merge Sort Algorithm]()
   - [Bubble Sort Algorithm]()
   - [Selection Sort Algorithm]()
